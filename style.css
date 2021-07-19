@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.title{
+    font-family: 'Dosis', sans-serif;
+    color: #4c5865;
+    text-transform: uppercase;
+    position: absolute;
+    top: 15vh;
+    left: 25vh;
+    font-size: 30px;
+}
+.redPriora{
+    width: 50%;
+    position: absolute;
+    top: 20vh;
+    left: 55vh;
+}
+.colorSelector{
+    position: absolute;
+    top: 75vh;
+    left: 75vh;
+    letter-spacing: 1.5rem;
+}
+.colorRed{
+    background:#860E02;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 1px #555;
+}
+.colorWhite{
+    background:white;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 1px #555;
+}
+.colorBlue{
+    background: #016af9;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 1px #555;
+}
+.colorSilver{
+    background: #CAD5CD;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 1px #555;
+}
+.colorKorich{
+    background: #BABABA;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 1px #555;
+}
+.colorKorich{
+    background: black;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 0 1px #555;
+}
